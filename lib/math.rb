@@ -7,6 +7,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
+<<<<<<< HEAD
   50 / 2
 end
 
@@ -16,6 +17,17 @@ end
 
 def modulo(num1, num2)
   34 % 5
+=======
+  55 / 11
+end
+
+def multiplication(num1, num2)
+  7 * 9
+end
+
+def modulo(num1, num2)
+  7 % 5
+>>>>>>> a9cc259495231ab5f64b81ad59ccff86150e3e22
 end
 
 def square_root(num)
